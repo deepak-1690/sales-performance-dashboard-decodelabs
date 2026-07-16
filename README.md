@@ -49,5 +49,6 @@ Microsoft Excel
 📁 Files
 
 
-Dataset_for_Data_Analytics_Cleaned.xlsx — cleaned source data (star schema)
+Dataset_for_Data_Analytics_Cleaned.xlsx — cleaned source data 
+
 Sales Performance Dashboard.pbix — Power BI report file
